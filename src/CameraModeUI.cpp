@@ -1,4 +1,4 @@
-#include <Geode/Geode.hpp>
+/*#include <Geode/Geode.hpp>
 #include <Geode/modify/SetupCameraModePopup.hpp>
 
 using namespace geode::prelude;
@@ -54,3 +54,4 @@ class $modify(SetupCameraModePopup) {
 		return true;
 	}
 };
+*/
